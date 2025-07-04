@@ -1,5 +1,5 @@
 # Junie
 
-Your repository is eligible to be initialized with a Junie workflow.
+您的仓库符合初始化 Junie 工作流的条件。
 
-A pull request for that should be created for you automatically – just approve it, and you're ready to use Junie! 🚀
+系统会自动为您创建一个相关的拉取请求 - 只需批准它，您就可以开始使用 Junie 了！🚀
