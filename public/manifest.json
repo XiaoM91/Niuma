@@ -1,0 +1,9 @@
+{
+  "short_name": "Niuma",
+  "name": "Niuma - 实时工资可视化",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
